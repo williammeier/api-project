@@ -2,7 +2,7 @@
 
 ## Requisitos
 
--   PHP 8.0+
+-   PHP 8.2+
 -   Composer
 -   MySQL
 
