@@ -73,7 +73,7 @@
     GET /api/products
     ```
 
--   Buscar item por ID:
+-   Buscar produto por ID:
     ```bash
     GET /api/products/{id}
     ```
